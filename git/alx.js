@@ -1,1 +1,1 @@
-console.log("ALX")
+js console.log("ALX")

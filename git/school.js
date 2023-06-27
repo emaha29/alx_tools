@@ -1,1 +1,1 @@
-console.log("School")
+js console.log("School")
